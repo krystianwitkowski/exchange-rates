@@ -1,2 +1,2 @@
 # Exchange rates
-[See Online](https://fncoder.github.io/exchange-rates-app/)
+[See Online](https://mthris.github.io/exchange-rates/)
